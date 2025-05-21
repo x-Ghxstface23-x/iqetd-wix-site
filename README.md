@@ -26,7 +26,7 @@ The IQETD website is a multi-page platform created to showcase the institute's e
 ## 📸 Screenshots
 
 ![Homepage](screenshots/homepage.png)  
-![Services](screenshots/qualifications.png)  
+![Services](screenshots/services.png)  
 ![Contact](screenshots/contact.png)
 
 ---
